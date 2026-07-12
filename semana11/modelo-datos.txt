@@ -1,0 +1,23 @@
+Entidad: Causa
+
+Campos principales:
+- id 002
+- titulo. Recoleccion de basura 
+- descripcion: en todo el barrio 
+- fecha:12/07/2026
+
+Propósito:
+Guardar las causas comunitarias que serán visibles en la plataforma.
+
+
+Entidad: Apoyo:  La comunidad 
+
+Campos principales: la cancha 
+- id. 003
+- causa_id. haseo en general
+- usuario. famias del barrio las palmeras
+- fecha 12/07/2026
+
+Propósito:
+Registrar los apoyos que recibe cada causa para hacer seguimiento
+ a la participación.
